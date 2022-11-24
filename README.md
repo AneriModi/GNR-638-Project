@@ -20,8 +20,8 @@ SRGAN:	https://arxiv.org/abs/1609.04802 \
 ESRGAN:	https://arxiv.org/abs/1809.00219
 
 # Contributors:
-- Aneri	(190100015)
-- Bhargav(190100102)
-- Shwetambari(190100071)
+- Aneri	Modi (190100015)
+- Sai Bhargav Rongali (190100102)
+- Shwetambari Mali (190100071)
 
 								        Made with 💙
