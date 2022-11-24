@@ -11,7 +11,7 @@ We run this script under [TensorFlow](https://www.tensorflow.org) 2.0.
 - For testing: `python test.py`
 - `model.py` consists of the SRGAN model code
 
-# Presentation Recording Drive link: 
+# Presentation Recording Drive link: https://drive.google.com/file/d/18iU06UCM0tgCHUL505uTASE2I_1kBhsL/view?usp=sharing
 
 # Model check points Drive link: 
 - SRGAN weights: https://drive.google.com/drive/folders/1t-Epc_P_74f8rABBAWvcQIprrPjhYGXe?usp=share_link
