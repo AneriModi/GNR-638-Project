@@ -14,8 +14,8 @@ We run this script under [TensorFlow](https://www.tensorflow.org) 2.0.
 # Presentation Recording Drive link: 
 
 # Model check points Drive link: 
-SRGAN weights: https://drive.google.com/drive/folders/1t-Epc_P_74f8rABBAWvcQIprrPjhYGXe?usp=share_link
-ESRGAN weights: https://drive.google.com/drive/folders/1Z06hjbGvJRZsZOROHymR8GWYZXVEdJr0?usp=share_link 
+-SRGAN weights: https://drive.google.com/drive/folders/1t-Epc_P_74f8rABBAWvcQIprrPjhYGXe?usp=share_link
+-ESRGAN weights: https://drive.google.com/drive/folders/1Z06hjbGvJRZsZOROHymR8GWYZXVEdJr0?usp=share_link 
 
 # References:
 SRGAN:	https://arxiv.org/abs/1609.04802 \
