@@ -22,6 +22,6 @@ ESRGAN:	https://arxiv.org/abs/1809.00219
 # Contributors:
 - Aneri	(190100015)
 - Bhargav(190100102)
-- Shwetambari(190100102)
+- Shwetambari(190100071)
 
 								        Made with 💙
